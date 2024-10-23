@@ -6,8 +6,8 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=piotrrosinski77&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5&order=3" height="110" alt="streak graph"  />
+    <img height="280" src="https://st3.depositphotos.com/1796420/33221/v/450/depositphotos_332214008-stock-illustration-pixel-art-hardware-illustration-circuit.jpg" style="height: 105px;" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=piotrrosinski77&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=true&order=2" height="115" alt="languages graph"  />
-  <img height="280" src="https://st3.depositphotos.com/1796420/33221/v/450/depositphotos_332214008-stock-illustration-pixel-art-hardware-illustration-circuit.jpg" style="height: 105px;" />
 </div>
 
 ###
