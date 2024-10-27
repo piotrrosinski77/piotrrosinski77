@@ -1,4 +1,4 @@
-<h1 align="left">👋🏻 Hi, I'm Piotr! An Electronics Student from Wrocław, Poland</h1>
+<h1 align="left">👋🏻 Hi, I'm Piotr! An Electronics Student from Wrocław, Poland </h1>
 
 ###
 <div align="center">
