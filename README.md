@@ -1,10 +1,8 @@
 <div align="left"><h1 align="left">👋🏻 Hi, I'm Piotr! An Electronics Student from Wrocław, Poland <img height="20" src="img/poland.png"  /></h1></div>
 
-###
 <div align="center">
   <img height="340" src="img/msdos.gif"  />
 </div>
-###
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=piotrrosinski77&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5&order=3" height="110" alt="streak graph"  />
