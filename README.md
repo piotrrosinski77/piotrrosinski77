@@ -1,3 +1,6 @@
+<h1 align="left">👋🏻 Hi, I'm Piotr! An Electronics Student from Wrocław, Poland</h1>
+
+###
 <div align="center">
   <img height="340" src="https://i.redd.it/yt2bxvkddwt31.gif"  />
 </div>
