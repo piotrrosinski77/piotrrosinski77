@@ -3,7 +3,7 @@
 Find me on LinkedIn: 
 <a href="https://www.linkedin.com/in/piotrrosinski18/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>, 
-I also code on Sololearn:
+I also enjoy coding on Sololearn:
 <a href="https://www.sololearn.com/pl/profile/12852739">
 <img src="https://img.shields.io/badge/-Sololearn-3a464b?style=for-the-badge&logo=Sololearn&logoColor=white"/></a>.
 
