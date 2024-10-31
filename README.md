@@ -1,5 +1,13 @@
 <div align="left"><h1 align="left">👋🏻 Hi, I'm Piotr! An Electronics Student from Wrocław, Poland <img height="20" src="img/poland.png"  /></h1></div>
 
+Find me on LinkedIn: 
+<a href="https://www.linkedin.com/in/piotrrosinski18/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>, 
+I also code on Sololearn:
+<a href="https://www.sololearn.com/pl/profile/12852739">
+<img src="https://img.shields.io/badge/-Sololearn-3a464b?style=for-the-badge&logo=Sololearn&logoColor=white"/></a>.
+
+
 <div align="center">
   <img height="340" src="img/msdos.gif"  />
 </div>
