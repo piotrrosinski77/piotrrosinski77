@@ -13,7 +13,7 @@ I also enjoy coding on Sololearn:
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=piotrrosinski77&theme=github-green-purple" height="115" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats-2-seven.vercel.app?user=piotrrosinski77&theme=chartreuse-dark" height="115" alt="GitHub Streak" />
   <img height="280" src="https://st3.depositphotos.com/1796420/33221/v/450/depositphotos_332214008-stock-illustration-pixel-art-hardware-illustration-circuit.jpg" style="height: 105px;" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=piotrrosinski77&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=true&order=2" height="115" alt="languages graph"  />
 </div>
